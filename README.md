@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do meu **Portfólio Acadêmico Profissional**. Este projeto foi desenvolvido durante o curso de **Análise e Desenvolvimento de Sistemas (ADS)** na **UNINASSAU Caruaru** para documentar minha jornada, projetos e certificações.
 
-🔗 **Acesse o site online:** [Clique aqui para visitar (Vercel)](https://pedroalves-ads.vercel.app/) *(Substitua pelo seu link real se for diferente)*
+🔗 **Acesse o site online:** [Clique aqui para visitar (Vercel)](https://pedroalves-ads-uninassau.vercel.app/)
 
 ## 🚀 Sobre o Projeto
 
@@ -31,8 +31,8 @@ O projeto foi construído utilizando tecnologias nativas para garantir performan
 
 ## 📦 Hospedagem e Deploy
 
-*   **Código Fonte:** Hospedado no [GitHub](https://github.com/pedroalves-ads-uninassau).
+*   **Código Fonte:** Hospedado no [GitHub](https://github.com/pedroalves-ads-uninassau/meu-website).
 *   **Deploy:** Realizado automaticamente via **Vercel** para alta disponibilidade e performance global.
 
 ---
-&copy; 2025 Pedro Alves - Desenvolvido com 💙 e muito código.
+&copy; 2025 Pedro Alves
